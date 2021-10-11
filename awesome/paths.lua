@@ -1,0 +1,5 @@
+cfg_path     = "/home/marina/.config/awesome/"
+themes_path  = cfg_path .. "themes/"
+scripts_path = cfg_path .. "scripts/"
+states_path  = "/home/marina/.cache/awesome/"
+laptopScreen = "eDP-1"
